@@ -1,5 +1,6 @@
 # 应用市场
 应用市场
+GooglePlay2 ： https://github.com/caohaoping/GooglePlay2
 
 ## 1.效果图
 ![](gif/googleplay.gif)
